@@ -40,7 +40,6 @@ main {
 .day h2 {
   font-size: 2rem;
   color: #0ff;
-  text-shadow: 0 0 8px #0ff;
   margin-bottom: 1rem;
 }
 
@@ -68,7 +67,6 @@ main {
 .venue h3 {
   font-size: 1.5rem;
   color: #f0f;
-  text-shadow: 0 0 6px #f0f;
   margin: 0;
 }
 
